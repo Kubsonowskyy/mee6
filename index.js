@@ -2,7 +2,7 @@ const Discord = require(`discord.js`)
 const bot = new Discord.Client();
 const prefix = "!"
 var nazwabota = "MEE6+"
-const token = `NzE0MDU2NTI1MDM1MDc3NjUz.XspHBA.BD4qkF9rY3322xEwCpjuZBqWpTw`;
+const token = `NzE0MDU2NTI1MDM1MDc3NjUz.XspJtQ.41-SUkiDRVjJPwThJZgsm_tLVJI`;
 
 bot.on(`ready`, ()=>{
     console.log(`Bot ${nazwabota} został włączony z tokenu: ${token}`);
